@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-11-16T18:32:33.853Z",
+  "nativeResolution": "1672x941",
+  "secondaryDesktopResolution": "1648x930",
+  "threshold": 0.1,
+  "averageSimilarityPct": 100,
+  "modules": [
+    {
+      "id": "dashboard",
+      "name": "7.1 Dashboard Principal",
+      "route": "/dashboard",
+      "resolution": "1672x941",
+      "totalPixels": 1573352,
+      "diffPixels": 0,
+      "matchedPixels": 1573352,
+      "similarityPct": 100,
+      "referenceFile": "tests/visual/references/dashboard.png",
+      "actualFile": "tests/visual/actual/dashboard.png",
+      "diffFile": "tests/visual/diff/dashboard-diff.png",
+      "overlayFile": "tests/visual/overlay/dashboard-overlay.png"
+    },
+    {
+      "id": "products",
+      "name": "7.2 Catálogo de Productos",
+      "route": "/productos",
+      "resolution": "1672x941",
+      "totalPixels": 1573352,
+      "diffPixels": 0,
+      "matchedPixels": 1573352,
+      "similarityPct": 100,
+      "referenceFile": "tests/visual/references/products.png",
+      "actualFile": "tests/visual/actual/products.png",
+      "diffFile": "tests/visual/diff/products-diff.png",
+      "overlayFile": "tests/visual/overlay/products-overlay.png"
+    },
+    {
+      "id": "categories",
+      "name": "7.3 Categorías de Productos",
+      "route": "/productos/categorias",
+      "resolution": "1672x941",
+      "totalPixels": 1573352,
+      "diffPixels": 0,
+      "matchedPixels": 1573352,
+      "similarityPct": 100,
+      "referenceFile": "tests/visual/references/categories.png",
+      "actualFile": "tests/visual/actual/categories.png",
+      "diffFile": "tests/visual/diff/categories-diff.png",
+      "overlayFile": "tests/visual/overlay/categories-overlay.png"
+    },
+    {
+      "id": "presentations",
+      "name": "7.4 Presentaciones Comerciales",
+      "route": "/productos/presentaciones",
+      "resolution": "1672x941",
+      "totalPixels": 1573352,
+      "diffPixels": 0,
+      "matchedPixels": 1573352,
+      "similarityPct": 100,
+      "referenceFile": "tests/visual/references/presentations.png",
+      "actualFile": "tests/visual/actual/presentations.png",
+      "diffFile": "tests/visual/diff/presentations-diff.png",
+      "overlayFile": "tests/visual/overlay/presentations-overlay.png"
+    },
+    {
+      "id": "technical-sheets",
+      "name": "7.5 Fichas Técnicas",
+      "route": "/productos/fichas-tecnicas",
+      "resolution": "1672x941",
+      "totalPixels": 1573352,
+      "diffPixels": 0,
+      "matchedPixels": 1573352,
+      "similarityPct": 100,
+      "referenceFile": "tests/visual/references/technical-sheets.png",
+      "actualFile": "tests/visual/actual/technical-sheets.png",
+      "diffFile": "tests/visual/diff/technical-sheets-diff.png",
+      "overlayFile": "tests/visual/overlay/technical-sheets-overlay.png"
+    }
+  ]
+}

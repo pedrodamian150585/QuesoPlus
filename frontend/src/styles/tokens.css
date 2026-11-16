@@ -1,0 +1,59 @@
+:root {
+  /* 1. COLORES — FONDOS Y SUPERFICIES */
+  --qp-bg-canvas: #04070C;
+  --qp-bg-canvas-deep: #020508;
+  --qp-bg-sidebar: #02050B;
+  --qp-bg-topbar: #06080E;
+  --qp-bg-card: #0D1017;
+  --qp-bg-card-gradient: linear-gradient(180deg, #111520 0%, #090C12 100%);
+  --qp-bg-card-elevated: #141824;
+  --qp-bg-input: #0F131D;
+
+  /* 2. COLORES — ACENTOS DE MARCA Y SEMÁNTICOS */
+  --qp-accent-red: #E11D2E;
+  --qp-accent-red-dark: #A80212;
+  --qp-accent-red-gradient: linear-gradient(135deg, #E11D2E 0%, #B00110 100%);
+  --qp-accent-gold: #F59E0B;
+  --qp-accent-amber: #CF8004;
+  --qp-accent-green: #10B981;
+  --qp-accent-emerald: #05972E;
+  --qp-accent-blue: #0EA5E9;
+  --qp-accent-blue-dark: #0567C0;
+  --qp-accent-purple: #8B5CF6;
+  --qp-accent-violet: #7C3AED;
+
+  /* 3. COLORES — TEXTO */
+  --qp-text-primary: #FFFFFF;
+  --qp-text-secondary: #94A3B8;
+  --qp-text-muted: #64748B;
+
+  /* 4. BORDES Y RADIOS */
+  --qp-border-subtle: #1B1F29;
+  --qp-border-card: rgba(255, 255, 255, 0.08);
+  --qp-border-red: rgba(225, 29, 46, 0.65);
+  --qp-border-gold: rgba(245, 158, 11, 0.45);
+  --qp-radius-xs: 6px;
+  --qp-radius-sm: 8px;
+  --qp-radius-md: 10px;
+  --qp-radius-lg: 14px;
+  --qp-radius-xl: 18px;
+  --qp-radius-pill: 9999px;
+
+  /* 5. SOMBRAS Y RESPLANDORES */
+  --qp-shadow-card: 0 8px 28px rgba(0, 0, 0, 0.55);
+  --qp-glow-red: 0 0 20px rgba(225, 29, 46, 0.42);
+  --qp-glow-amber: 0 0 18px rgba(245, 158, 11, 0.35);
+  --qp-glow-green: 0 0 18px rgba(16, 185, 129, 0.35);
+  --qp-glow-blue: 0 0 18px rgba(14, 165, 233, 0.35);
+  --qp-glow-purple: 0 0 18px rgba(139, 92, 246, 0.35);
+
+  /* 6. DIMENSIONES DE LAYOUT */
+  --qp-viewport-width: 1672px;
+  --qp-viewport-height: 941px;
+  --qp-sidebar-width: 244px;
+  --qp-topbar-height: 80px;
+
+  /* 7. TRANSICIONES */
+  --qp-transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --qp-transition-normal: 220ms cubic-bezier(0.4, 0, 0.2, 1);
+}
